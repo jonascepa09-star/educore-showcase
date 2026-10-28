@@ -77,4 +77,4 @@ O código da aplicação permanece em um repositório privado. A publicação de
 
 ## Autoria
 
-Desenvolvido por **Jonas Pessoa**, com assistência de IA, revisão incremental e validação por testes. O projeto demonstra decisões de arquitetura, modelagem, integridade, autorização e construção de interfaces para gestão educacional.
+Projeto de **Jonas Pessoa**. O EduCore apresenta soluções de arquitetura, modelagem de dados, integridade transacional, controle de acesso e interfaces para gestão educacional.
